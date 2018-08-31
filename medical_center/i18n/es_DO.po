@@ -1,0 +1,598 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * medical_center
+# 
+# Translators:
+# OCA Transbot <transbot@odoo-community.org>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-23 03:47+0000\n"
+"PO-Revision-Date: 2017-11-23 03:47+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
+"Language-Team: Spanish (Colombia) (https://www.transifex.com/oca/teams/23907/es_CO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: es_CO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_alias
+msgid "Alias"
+msgstr "Alias"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_bank_ids
+msgid "Banks"
+msgstr "Bancos"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_barcode
+msgid "Barcode"
+msgstr "Codigo de Barras"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_birthdate
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_birthdate_date
+msgid "Birthdate"
+msgstr "Fecha de nacimiento"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_message_bounce
+msgid "Bounce"
+msgstr "Rebote"
+
+#. module: medical_center
+#: model:ir.ui.menu,name:medical_center.medical_center_menu
+msgid "Centers"
+msgstr "Centros"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_channel_ids
+msgid "Channels"
+msgstr "Canales"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_is_company
+msgid "Check if the contact is a company, otherwise it is a person"
+msgstr "Marque si el contacto es una compañia, de lo contrario es una persona"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_customer
+msgid "Check this box if this contact is a customer."
+msgstr "Marque esta casilla si este contacto es un cliente"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_supplier
+msgid ""
+"Check this box if this contact is a vendor. If it's not checked, purchase "
+"people will not see it when encoding a purchase order."
+msgstr ""
+"Marque esta casilla si este contacto es un vendedor. Si no está marcado, las personas"
+"de compras no lo verán cuando se crea una compra."
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_employee
+msgid "Check this box if this contact is an Employee."
+msgstr "Marque esta casilla si este contacto es un empleado"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_city
+msgid "City"
+msgstr "Ciudad"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_color
+msgid "Color Index"
+msgstr "Indíce de colores"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_commercial_partner_id
+msgid "Commercial Entity"
+msgstr "Entidad Comercial"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_alias
+msgid "Common name that the Party is referred"
+msgstr "Nombre común como es llamado"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_company_id
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_search
+msgid "Company"
+msgstr "Compañia"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_company_name
+msgid "Company Name"
+msgstr "Nombre de la Compañia"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_commercial_company_name
+msgid "Company Name Entity"
+msgstr "Nombre de la Empresa Entidad"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_company_type
+msgid "Company Type"
+msgstr "Tipo de Compañia"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_contact_address
+msgid "Complete Address"
+msgstr "Dirección Completa"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_child_ids
+msgid "Contacts"
+msgstr "Contactos"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_count_patients
+msgid "Count patients"
+msgstr "Contador de pacientes"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_message_bounce
+msgid "Counter of the number of bounced emails for this contact"
+msgstr "Contador de la cantidad de correos electrónicos devueltos para este contacto"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_country_id
+msgid "Country"
+msgstr "Pais"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_credit_limit
+msgid "Credit Limit"
+msgstr "Límite de crédito"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_date
+msgid "Date"
+msgstr "Fecha"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_display_name
+msgid "Display Name"
+msgstr "Nombre Mostrado"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_partner_share
+msgid ""
+"Either customer (no user), either shared user. Indicated the current partner"
+" is a customer without access or with a limited access created for sharing "
+"data."
+msgstr ""
+"Ya sea cliente (sin usuario), usuario compartido. Indicó que el socio actual"
+" es un cliente sin acceso o con un acceso limitado creado para compartir "
+"datos."
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_email
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_notify_email
+msgid "Email Messages and Notifications"
+msgstr "Mensajes de correo electrónico y notificaciones"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_employee
+msgid "Employee"
+msgstr "Empleado"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_fax
+msgid "Fax"
+msgstr "Fax"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_firstname
+msgid "First name"
+msgstr "Nombre"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_email_formatted
+msgid "Format email address \"Name <email@domain>\""
+msgstr "Formato de dirección de correo \"Nombre <email@domain>\""
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_email_formatted
+msgid "Formatted Email"
+msgstr "Email Formateado"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_gender
+msgid "Gender"
+msgstr "Genéro"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_id
+msgid "ID"
+msgstr "ID"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_im_status
+msgid "IM Status"
+msgstr "Estado IM"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_id_numbers
+msgid "Identification Numbers"
+msgstr "Numeros de identificación"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_opt_out
+msgid ""
+"If opt-out is checked, this contact has refused to receive emails for mass "
+"mailing and marketing campaign. Filter 'Available for Mass Mailing' allows "
+"users to filter the partners when performing mass mailing."
+msgstr ""
+"Si se selecciona la opción de exclusión voluntaria, este contacto se ha negado a recibir correos electrónicos para una masa "
+"correo y campaña de marketing. El filtro 'Disponible para envío masivo' permite "
+"usuarios para filtrar a los socios al realizar envíos masivos de correos."
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_team_id
+msgid ""
+"If set, sale team used notably for sales and assignations related to this "
+"partner"
+msgstr ""
+"Si está configurado, el equipo de ventas lo usó principalmente para ventas y asignaciones relacionadas con este"
+"contacto"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_lang
+msgid ""
+"If the selected language is loaded in the system, all documents related to "
+"this contact will be printed in this language. If not, it will be English."
+msgstr ""
+"Si el idioma seleccionado se carga en el sistema, todos los documentos relacionados con"
+"Este contacto se imprimirá en este idioma. De lo contrario, será en inglés."
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_image
+msgid "Image"
+msgstr "Imagen"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_ref
+msgid "Internal Reference"
+msgstr "Referencia Interna"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_is_company
+msgid "Is a Company"
+msgstr "Es una Empresa"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_customer
+msgid "Is a Customer"
+msgstr "Es un Cliente"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_supplier
+msgid "Is a Vendor"
+msgstr "Es un vendedor"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_function
+msgid "Job Position"
+msgstr "Puesto de Trabajo"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_lang
+msgid "Language"
+msgstr "Idioma"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center___last_update
+msgid "Last Modified on"
+msgstr "Última Modificación en"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_write_uid
+msgid "Last Updated by"
+msgstr "Última Actualización por"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_write_date
+msgid "Last Updated on"
+msgstr "Última Actualización en"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_lastname
+msgid "Last name"
+msgstr "Apellido"
+
+#. module: medical_center
+#: model:ir.model,name:medical_center.model_medical_center
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_form
+msgid "Medical Center"
+msgstr "Centro Medíco"
+
+#. module: medical_center
+#: model:ir.actions.act_window,name:medical_center.medical_center_action
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_kanban
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_search
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_tree
+msgid "Medical Centers"
+msgstr "Centros Medicos"
+
+#. module: medical_center
+#: model:ir.ui.menu,name:medical_center.medical_facilities_menu
+msgid "Medical Facilities"
+msgstr "Instalaciones Medicas"
+
+#. module: medical_center
+#: model:ir.model,name:medical_center.model_medical_patient
+msgid "Medical Patient"
+msgstr "Paciente Médico"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_image_medium
+msgid "Medium-sized image"
+msgstr "Imagen de tamaño medio"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_image_medium
+msgid ""
+"Medium-sized image of this contact. It is automatically resized as a "
+"128x128px image, with aspect ratio preserved. Use this field in form views "
+"or some kanban views."
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_mobile
+msgid "Mobile"
+msgstr "Movil"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_comment
+msgid "Notes"
+msgstr "Notas"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_opt_out
+msgid "Opt-Out"
+msgstr "Opt-Salida"
+
+#. module: medical_center
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_form
+msgid "Parent Company"
+msgstr "Empresa Padre"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_parent_name
+msgid "Parent name"
+msgstr "Nombre Padre"
+
+#. module: medical_center
+#: model:ir.model,name:medical_center.model_res_partner
+msgid "Partner"
+msgstr "Contacto"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_phone
+msgid "Phone"
+msgstr "Telefóno"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_notify_email
+msgid ""
+"Policy to receive emails for new messages pushed to your personal Inbox:\n"
+"- Never: no emails are sent\n"
+"- All Messages: for every notification you receive in your Inbox"
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_patient_medical_center_primary_id
+#: model:ir.ui.view,arch_db:medical_center.medical_patient_view_search
+msgid "Primary Medical Center"
+msgstr "Centro Médico Primario"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_parent_id
+msgid "Related Company"
+msgstr "Empresa Relacionada"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_patient_ids
+msgid "Related Patients"
+msgstr "Pacientes Relacionados"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_property_product_pricelist
+msgid "Sale Pricelist"
+msgstr "Lista de Precios de Venta"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_team_id
+msgid "Sales Team"
+msgstr "Equipo de Ventas"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_user_id
+msgid "Salesperson"
+msgstr "Vendedor"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_patient_medical_center_secondary_ids
+msgid "Secondary Medical Centers"
+msgstr "Centros Médicos Secundarios"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_self
+msgid "Self"
+msgstr "Yo"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_partner_share
+msgid "Share Partner"
+msgstr "Compartir Contacto"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_signup_type
+msgid "Signup Token Type"
+msgstr "Tipo de token de registro"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_signup_valid
+msgid "Signup Token is Valid"
+msgstr "Token de inscripción es válido"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_signup_url
+msgid "Signup URL"
+msgstr "URL de inscripción"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_signup_expiration
+msgid "Signup expiration"
+msgstr "Caducidad de registro"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_signup_token
+msgid "Signup token"
+msgstr "Token de registro"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_image_small
+msgid "Small-sized image"
+msgstr "Imagen de tamaño medio"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_image_small
+msgid ""
+"Small-sized image of this contact. It is automatically resized as a 64x64px "
+"image, with aspect ratio preserved. Use this field anywhere a small image is"
+" required."
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_state_id
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_search
+msgid "State"
+msgstr "Estado"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_street
+msgid "Street"
+msgstr "Calle"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_street2
+msgid "Street2"
+msgstr "Calle2"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_vat
+msgid "TIN"
+msgstr "NIF"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_category_id
+msgid "Tags"
+msgstr "Etiquetas"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_vat
+msgid ""
+"Tax Identification Number. Fill it if the company is subjected to taxes. "
+"Used by the some of the legal statements."
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_user_id
+msgid ""
+"The internal user that is in charge of communicating with this contact if "
+"any."
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_tz
+msgid ""
+"The partner's timezone, used to output proper date and time values inside "
+"printed reports. It is important to set a value for this field. You should "
+"use the same timezone that is otherwise used to pick and render date and "
+"time values: your computer's timezone."
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_image
+msgid ""
+"This field holds the image used as avatar for this contact, limited to "
+"1024x1024px"
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_property_product_pricelist
+msgid ""
+"This pricelist will be used, instead of the default one, for sales to the "
+"current partner"
+msgstr ""
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_tz
+msgid "Timezone"
+msgstr "Zona Horaria"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_tz_offset
+msgid "Timezone offset"
+msgstr "Compensación de Zona Horaria"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_title
+msgid "Title"
+msgstr "Titulo"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_user_ids
+msgid "Users"
+msgstr "Usuarios"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_website
+msgid "Website"
+msgstr "Sitio web"
+
+#. module: medical_center
+#: model:ir.model.fields,help:medical_center.field_medical_center_website
+msgid "Website of Partner or Company"
+msgstr "Sitio web de socio o empresa"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_weight
+msgid "Weight"
+msgstr "Peso"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_weight_uom
+msgid "Weight UoM"
+msgstr "Peso UoM"
+
+#. module: medical_center
+#: model:ir.model.fields,field_description:medical_center.field_medical_center_zip
+#: model:ir.ui.view,arch_db:medical_center.medical_center_view_search
+msgid "Zip"
+msgstr "Zip"
