@@ -417,13 +417,13 @@ msgstr "Número de identificació"
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_plan_number
 msgid "Identification number for insurance account"
-msgstr "Identification number for insurance account"
+msgstr "Numero de identificacion para la cuenta de afiliación"
 
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_plan_plan_number
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_template_plan_number
 msgid "Identification number for plan"
-msgstr "Identification number for plan"
+msgstr "Numero de identificación para el plan"
 
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_template_message_unread
@@ -479,31 +479,31 @@ msgstr "Imagen de la variante del producto (Imagen pequeña de la plantilla del 
 #: model:ir.ui.menu,name:medical_insurance.medical_conf_insurance_menu
 #: model:ir.ui.view,arch_db:medical_insurance.medical_patient_view_form
 msgid "Insurance"
-msgstr "Insurance"
+msgstr "Aseguradoras"
 
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 msgid "Insurance Affiliation"
-msgstr "Insurance Affiliation"
+msgstr "Afiliacion de Seguro"
 
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_search
 msgid "Insurance Company"
-msgstr "Insurance Company"
+msgstr "Comapiñia Aseguradora"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_is_insurance_plan
 #: model:ir.model.fields,field_description:medical_insurance.field_product_product_is_insurance_plan
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_form
 msgid "Insurance Plan"
-msgstr "Insurance Plan"
+msgstr "Plan de Seguro"
 
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_plan_insurance_template_id
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_form
 msgid "Insurance Plan Template"
-msgstr "Insurance Plan Template"
+msgstr "Plantilla de plan de seguro"
 
 #. module: medical_insurance
 #: model:ir.actions.act_window,name:medical_insurance.medical_insurance_template_action
@@ -511,7 +511,7 @@ msgstr "Insurance Plan Template"
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_search
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_tree
 msgid "Insurance Plan Templates"
-msgstr "Insurance Plan Templates"
+msgstr "Plantilla de planes de seguros"
 
 #. module: medical_insurance
 #: model:ir.actions.act_window,name:medical_insurance.medical_insurance_plan_action
@@ -520,7 +520,7 @@ msgstr "Insurance Plan Templates"
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_tree
 msgid "Insurance Plans"
-msgstr "Insurance Plans"
+msgstr "Planes de Seguro"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_product_id
@@ -528,7 +528,7 @@ msgstr "Insurance Plans"
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_search
 msgid "Insurance Product"
-msgstr "Insurance Product"
+msgstr "Producto Seguro"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_insurance_company_id
@@ -537,7 +537,7 @@ msgstr "Insurance Product"
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_template_insurance_company_id
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_company_view_form
 msgid "Insurance Provider"
-msgstr "Insurance Provider"
+msgstr "Proveedor de Seguro"
 
 #. module: medical_insurance
 #: model:ir.actions.act_window,name:medical_insurance.medical_insurance_company_action
@@ -546,18 +546,18 @@ msgstr "Insurance Provider"
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_company_view_search
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_company_view_tree
 msgid "Insurance Providers"
-msgstr "Insurance Providers"
+msgstr "Proveedores de Seguros"
 
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 msgid "Insurance Template"
-msgstr "Insurance Template"
+msgstr "Plantilla de Seguros"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_insurance_affiliation
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_insurance_affiliation
 msgid "Insurance affiliation"
-msgstr "Insurance affiliation"
+msgstr "Afiliación de Seguros"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_categ_id
@@ -604,7 +604,7 @@ msgstr "Puesto de Trabajo"
 #. module: medical_insurance
 #: selection:medical.insurance.template,insurance_affiliation:0
 msgid "Labor Union / Syndical"
-msgstr "Labor Union / Syndical"
+msgstr "Sndicato / Sindical"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_company_lang
@@ -650,17 +650,17 @@ msgstr "Unidades de logística"
 #. module: medical_insurance
 #: model:ir.model,name:medical_insurance.model_medical_insurance_plan
 msgid "Medical Insurance Plans"
-msgstr "Medical Insurance Plans"
+msgstr "Planes de seguro médico"
 
 #. module: medical_insurance
 #: model:ir.model,name:medical_insurance.model_medical_insurance_company
 msgid "Medical Insurance Providers"
-msgstr "Medical Insurance Providers"
+msgstr "Proveedores de seguro médico"
 
 #. module: medical_insurance
 #: model:ir.model,name:medical_insurance.model_medical_insurance_template
 msgid "Medical Insurance Templates"
-msgstr "Medical Insurance Templates"
+msgstr "Plantillas de seguro médico"
 
 #. module: medical_insurance
 #: model:ir.model,name:medical_insurance.model_medical_patient
@@ -681,7 +681,7 @@ msgstr "Imagen mediana de este contacto. Se redimensiona automáticamente a 128x
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_member_since
 msgid "Member Since"
-msgstr "Member Since"
+msgstr "Miembro desde"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_message_ids
@@ -708,7 +708,7 @@ msgstr "Notas"
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_form
 msgid "Notes..."
-msgstr "Notes..."
+msgstr "Notas..."
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_number
@@ -753,12 +753,12 @@ msgstr "Contacto"
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_patient_insurance_plan_ids
 msgid "Past & Present Insurance Plans"
-msgstr "Past & Present Insurance Plans"
+msgstr "Planes de seguro pasados y presentes"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_patient_id
 msgid "Patient"
-msgstr "Patient"
+msgstr "Paciente"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_company_phone
@@ -778,23 +778,23 @@ msgstr "Plan Info"
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_form
 msgid "Plan Information"
-msgstr "Plan Information"
+msgstr "Información de plan"
 
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_plan_view_search
 msgid "Plan Number"
-msgstr "Plan Number"
+msgstr "Numero de Plan"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_insurance_template_id
 msgid "Plan Template"
-msgstr "Plan Template"
+msgstr "Plantilla de Plan"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_plan_plan_number
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_plan_number
 msgid "Plan number"
-msgstr "Plan number"
+msgstr "Numero de Plan"
 
 #. module: medical_insurance
 #: model:ir.model.fields,help:medical_insurance.field_medical_insurance_company_notify_email
@@ -828,7 +828,7 @@ msgstr "ID de la tarifa de producto"
 #. module: medical_insurance
 #: selection:medical.insurance.template,insurance_affiliation:0
 msgid "Private"
-msgstr "Private"
+msgstr "Privado"
 
 #. module: medical_insurance
 #: model:ir.model,name:medical_insurance.model_product_product
@@ -859,7 +859,7 @@ msgstr "Productos"
 #. module: medical_insurance
 #: model:ir.ui.view,arch_db:medical_insurance.medical_insurance_template_view_form
 msgid "Provider Info"
-msgstr "Provider Info"
+msgstr "Informacion de proveedor"
 
 #. module: medical_insurance
 #: model:ir.model.fields,field_description:medical_insurance.field_medical_insurance_template_description_purchase
